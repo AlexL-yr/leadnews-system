@@ -1,0 +1,3 @@
+com\heima\admin\gateway\utils\AppJwtUtil.class
+com\heima\admin\gateway\filter\AuthorizeFilter.class
+com\heima\admin\gateway\HeimaLeadnewsAdminGatewayApplication.class

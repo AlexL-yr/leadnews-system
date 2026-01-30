@@ -1,0 +1,4 @@
+com\heima\es\mapper\ApArticleMapper.class
+com\heima\es\pojo\SearchArticleVo.class
+com\heima\es\EsInitApplication.class
+com\heima\es\config\ElasticSearchConfig.class

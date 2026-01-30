@@ -1,0 +1,4 @@
+com\heima\schedule\test\TestPipeline.class
+com\heima\schedule\service\impl\TaskServiceImplTest.class
+com\heima\schedule\test\RedisTest.class
+com\heima\schedule\test\TestPipeline$1.class

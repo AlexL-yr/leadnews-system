@@ -1,0 +1,12 @@
+com\heima\behavior\service\ApCollectionBehaviorService.class
+com\heima\behavior\service\ApUnlikeBehaviorService.class
+com\heima\behavior\service\impl\ApUnlikeBehaviorServiceImpl.class
+com\heima\behavior\intercepet\AppTokenInterceptor.class
+com\heima\behavior\service\impl\ApReadBehaviorServiceImpl.class
+com\heima\behavior\service\ApReadBehaviorService.class
+com\heima\behavior\config\WebMvcConfig.class
+com\heima\behavior\service\impl\ApLikesBehaviorServiceImpl.class
+com\heima\behavior\LeadnewsBehaviorApplication.class
+com\heima\behavior\service\impl\ApCollectionBehaviorServiceImpl.class
+com\heima\behavior\service\ApLikesBehaviorService.class
+com\heima\behavior\controller\BehaviorController.class

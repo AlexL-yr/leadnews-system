@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-admin-gateway" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-user/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-gateway/heima-leadnews-admin-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-behavior/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-test/xxljob-demo/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/heima-leadnews-admin/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
