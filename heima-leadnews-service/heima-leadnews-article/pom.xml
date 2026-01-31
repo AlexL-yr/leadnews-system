@@ -14,7 +14,7 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <docker.image>heima-leadnews-article</docker.image>
+        <docker.image>docker_storage</docker.image>
     </properties>
 
     <dependencies>
